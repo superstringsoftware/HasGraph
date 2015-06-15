@@ -1,0 +1,2 @@
+# HasGraph
+haskell graph database
