@@ -25,6 +25,7 @@ executable HasGraph-exe
   ghc-options:         -threaded -rtsopts -with-rtsopts=-N
   build-depends:       base
                      , haskeline
+                     , time
                      , transformers
                      , HasGraph
   default-language:    Haskell2010
